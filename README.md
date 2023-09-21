@@ -1,6 +1,6 @@
 <h1> Análise de dados aplicada à base Pólis PCDaS</h1>
 
-O conteúdo proposto é exigência para o projeto final da disciplina de Fundamentos e Ética no Jornalismo de dados, ministrada por Luiz Fernando Toledo e Natalai Mazotti para o primeiro trimestre do curso de Jornalismo de Dados, Automação e Data Storytelling do Insper.
+O conteúdo proposto é exigência para o projeto final da disciplina de Fundamentos e Ética no Jornalismo de dados, ministrada por Luiz Fernando Toledo e Natalia Mazotte para o primeiro trimestre do curso de Jornalismo de Dados, Automação e Data Storytelling do Insper.
 
 A base escolhida oi a Pòlis PCDaS, da Fiocruz, disponibilizada no seguinte [portal](https://pcdas.icict.fiocruz.br/conjunto-de-dados/polis-pcdas/), por sua vasta complexidade e muitas variáveis disponíveis em todos os municípios brasileiros, com última atualização em outubro de 2022 . 
 
