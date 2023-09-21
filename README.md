@@ -32,7 +32,7 @@ Para a seleção e limpeza de dados, foi utilizado o Orange, conforme o [documen
 
 <li>Por fim, acrescentamos também um filtro para analisar apenas cidades com pelo menos 10 mil habitantes, como forma de evitar possíveis distorções na taxa em cidades muito pequenas. Esse é o caso da primeira colocada do ranking, Capão Bonito do Sul, que tem uma taxa de 180 suicídios/100 mil habitantes – muito influenciada pelo fato de ser um município com menos de 2 mil habitantes). Mesmo com esse filtro, RS e SC seguem nas duas primeiras colocações.</li>
 
-<h21>Resultados da Análise</h2>
+<h2>Resultados da Análise</h2>
 
 Foi observado que o Rio Grande do Sul é o estado com o maior número de suicídios: média de 17.3 a cada 100 mil habitantes. Em segundo lugar, está Santa Catarina em segundo lugar, com 15,2 a cada 100 mil habitantes e Paraná em quarto lugar, com 10,6 a cada 100 mil habitantes.
 
