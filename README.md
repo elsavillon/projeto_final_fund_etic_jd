@@ -1,4 +1,4 @@
-Descrição da limpeza e análise de dados para o projeto final da discilplina.
+<b>Descrição da limpeza e análise de dados para o projeto final da discilplina </b>
 
 Para o trabalho, foi escolhida a base da dados PolisPCDaS, da Fiocruz, disponibilizada em https://pcdas.icict.fiocruz.br/conjunto-de-dados/polis-pcdas/, por sua vasta complexidade e muitas variáveis disponíveis para análise em todos os municípios brasileiros.  A Plataforma de Ciência de Dados à Saúde é a autora da base de dados, mantida pelo time de Engenharia de Governança e Engenharia de Dados. A última atualização aconteceu em outubro de 2021 e há um dicionário de variáveis disponível em https://pcdas.icict.fiocruz.br/conjunto-de-dados/polis-pcdas/dicionario-de-variaveis/. A documentação dos dados está disponível em https://pcdas.icict.fiocruz.br/conjunto-de-dados/polis-pcdas/documentacao/.
 
