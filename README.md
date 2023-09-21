@@ -73,7 +73,7 @@ Outras possibilidades para dar andamento à pauta seriam bases de dados compleme
 
 <li>Responsável do IBGE pela contrução da base de dados</li>
 
-<h2>Membros do Grupo</h2>
+<h2>Membros do grupo</h2>
 
 <li>Beatriz Capirazi</li>
 <li>Elsa Villon</li>
